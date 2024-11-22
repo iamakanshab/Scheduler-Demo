@@ -9,6 +9,7 @@
 - Left: GPU utilization over time
 - Right: Job queue and active jobs distribution
 ![Dashboard](images/image1.png)
+
 ![Metrics](images/image2.png)
   
 ## Using Simulation Controls (Sidebar)
