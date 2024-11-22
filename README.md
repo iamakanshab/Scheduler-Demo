@@ -24,7 +24,7 @@ python3 -m pip install streamlit plotly numpy pandas
 
 ## Usage
 ```bash
-python3 -m streamlit run scheduler.py
+python3 -m streamlit run demo.py
 ```
 
 ## Architecture
