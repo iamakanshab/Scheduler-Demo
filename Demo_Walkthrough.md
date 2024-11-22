@@ -1,4 +1,8 @@
- # Dashboard Layout
+# Scheduler Demo
+  Local URL: http://localhost:8501
+  Network URL: http://10.23.193.44:8501
+  
+ ## Dashboard Layout
 - Top Section: Key metrics (Active Jobs, Queue Length, GPU Utilization, Success Rate)
 - Middle: Cluster topology visualization
 - Each cell = 1 node (4 GPUs)
