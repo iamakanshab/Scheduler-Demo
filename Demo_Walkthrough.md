@@ -8,8 +8,8 @@
 - Bottom: Performance graphs
 - Left: GPU utilization over time
 - Right: Job queue and active jobs distribution
-![Dashboard](images/image1)
-![Metrics](images/image2)
+![Dashboard](images/image1.png)
+![Metrics](images/image2.png)
   
 ## Using Simulation Controls (Sidebar)
 - Job Arrival Rate: Controls frequency of new job submissions (0.0-1.0)
