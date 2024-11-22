@@ -8,9 +8,9 @@
 - Bottom: Performance graphs
 - Left: GPU utilization over time
 - Right: Job queue and active jobs distribution
-![Dashboard](https://amdcloud-my.sharepoint.com/:i:/g/personal/akbansal_amd_com/Eeh61qGSfXZOgIze3EEDM8IBjTEiDXsUmHSK19tTuJ1aQw?email=Akansha.Bansal%40amd.com&e=sdYVNb)
+![Dashboard](images/image1)
+![Metrics](images/image2)
   
-
 ## Using Simulation Controls (Sidebar)
 - Job Arrival Rate: Controls frequency of new job submissions (0.0-1.0)
 - Job Sizes: Select node requirements (2, 4, 8, 16)
