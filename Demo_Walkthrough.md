@@ -6,15 +6,15 @@
 - Dark blue cells = Occupied nodes
 - Columns represent leaf switch domains
 - Bottom: Performance graphs
-
-### Left: GPU utilization over time
-### Right: Job queue and active jobs distribution
+- Left: GPU utilization over time
+- Right: Job queue and active jobs distribution
+![Dashboard](https://amdcloud-my.sharepoint.com/:i:/g/personal/akbansal_amd_com/Eeh61qGSfXZOgIze3EEDM8IBjTEiDXsUmHSK19tTuJ1aQw?email=Akansha.Bansal%40amd.com&e=sdYVNb)
+  
 
 ## Using Simulation Controls (Sidebar)
 - Job Arrival Rate: Controls frequency of new job submissions (0.0-1.0)
 - Job Sizes: Select node requirements (2, 4, 8, 16)
 - Update Interval: Adjust visualization refresh rate
-- 
 ## Basic Operations Example
 ### Starting State
 - Fresh cluster: all nodes free (grey)
